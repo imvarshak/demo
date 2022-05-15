@@ -1,3 +1,2 @@
-# demo
-my first github experience!!!
-using pull request
+# Infytel-CloudConfig
+This repository contains Configuration of micro services for Infytel application
